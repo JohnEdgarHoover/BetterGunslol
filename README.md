@@ -6,6 +6,6 @@
 📢 The site was created by Hades (john_edgar_hoover) no copyright please.
 </pre>
   
-[voir le site](https://github.com/JohnEdgarHoover/BetterGunslol/raw/main/BetterGunslol/videogithub.mp4).
+[voir le site](https://github.com/JohnEdgarHoover/BetterGunslol/raw/main/BetterGunslol/videogithub.mp4)
 </div>
 
