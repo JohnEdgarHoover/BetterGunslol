@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&pause=1000&color=0e37eff&center=true&random=true&lines=Better+Guns+lol;+Html,+CSS,+ Javascript" width="45%" />
+<img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&pause=1000&color=0e37eff&center=true&random=true&lines=Better+Guns+lol+?+?+?;+Html,+CSS,+ Javascript" width="45%" />
 <br><br>
 <pre>
 ❓Better than Gunslol ?????
