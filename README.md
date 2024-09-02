@@ -5,7 +5,6 @@
 ❓Better than Gunslol ?????
 📢 The site was created by Hades (john_edgar_hoover) no copyright please.
 </pre>
-## Aperçu de la Vidéo
 [![Aperçu de la Vidéo](https://via.placeholder.com/150)](https://github.com/JohnEdgarHoover/BetterGunslol/raw/main/BetterGunslol/videogithub.mp4)
 </div>
 
