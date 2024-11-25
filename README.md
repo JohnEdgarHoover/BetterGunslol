@@ -6,6 +6,7 @@
 📢 The site was created by Hades (john_edgar_hoover) no copyright please.
 </pre>
   
-[![Look the website]([https://github.com/user-attachments/assets/5b749a5a-0e4f-4c38-bd30-709d73fca581](https://github.com/user-attachments/assets/239b13ff-4211-4734-8419-1673defda601))]
+![image](https://github.com/user-attachments/assets/5e2ef428-05d8-4476-8240-31af9dd8ecfc)
+
 </div>
 
